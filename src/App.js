@@ -12,7 +12,7 @@ class App extends Component {
           <h1 className="App-title">darkstarcrashes.com</h1>
         </header>
         <p className="App-intro">
-          built locally, pushed to github and digitalocean
+          coming...well, not soon, but eventually, maybe
         </p>
         <div><img src={weup} alt="we back up" /></div>
       </div>
