@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import weup from './logo.svg';
-import logo from './back-up.jpg';
+import logo from './logo.svg';
+import weup from './back-up.jpg';
 import './App.css';
 
 class App extends Component {
