@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-// import logo from './logo.svg';
+import weup from './logo.svg';
 import logo from './back-up.jpg';
 import './App.css';
 
@@ -14,6 +14,7 @@ class App extends Component {
         <p className="App-intro">
           built locally, pushed to github and digitalocean
         </p>
+        <div><img src={weup} alt="we back up" /></div>
       </div>
     );
   }
